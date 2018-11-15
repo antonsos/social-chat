@@ -1,0 +1,7 @@
+.button-box {
+  display: flex;
+}
+
+.button-right {
+  margin-left: auto;
+}

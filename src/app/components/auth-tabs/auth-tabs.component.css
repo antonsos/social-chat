@@ -1,0 +1,32 @@
+.auth__card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 515px;
+  background-color: #f5f5f5;
+}
+
+.auth__title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#myVideo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.tabs a {
+  color: #b3e5fc;
+  font-weight: bold;
+}
+
+.tabs .active {
+  color: #5694e6;
+  background-color: #fff !important;
+}
